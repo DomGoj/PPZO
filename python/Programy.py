@@ -33,7 +33,17 @@ def KonwerterTemperatur():
         return f"Temperatura w Celsjuszach: {celsius2}"
 
 def SredniaOcen():
-    print("zad3")
+    liczba_ocen = int(input("Podaj liczbę ocen: "))
+    suma = 0
+    for i in range(liczba_ocen):
+        ocena = float(input(f"Podaj ocenę {i+1}: "))
+        suma += ocena
+    srednia = suma / liczba_ocen
+    print(f"Średnia ocen: {srednia}")
+    if srednia >= 3.0:
+        print("Uczeń zdał.")
+    else:
+        print("Uczeń nie zdał.")
 
 def main():
     print("Wybierz zadanie od 1-3")
