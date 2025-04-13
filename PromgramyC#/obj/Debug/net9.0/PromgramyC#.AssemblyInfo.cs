@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PromgramyC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee7959aa65f2bfe3f2ed6168cdad8a4569c63e4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+482e345a32b6ab9b65b86481b1d835d6008673b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PromgramyC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PromgramyC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -103,7 +103,26 @@ class Program
 
     static void SredniaOcen()
     { 
-         Console.WriteLine("Hello World!");
+         Console.WriteLine("Podaj liczbę ocen:");
+         int liczbaOcen = Convert.ToInt32(Console.ReadLine());
+            double sumaOcen = 0;
+            for (int i = 1; i <= liczbaOcen; i++)
+            {
+                Console.Write("Podaj ocenę " + i + ": ");
+                double ocena = Convert.ToDouble(Console.ReadLine());
+                sumaOcen += ocena;
+            }
+            double srednia = sumaOcen / liczbaOcen;
+            Console.WriteLine("Średnia ocen: " + srednia);
+
+          
+           if (srednia >= 3.0)
+            {
+                Console.WriteLine("Uczeń zdał.");
+            }else
+            {
+                Console.WriteLine("Uczeń nie zdał.");
+            }
 
     }
 
