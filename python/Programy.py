@@ -19,7 +19,18 @@ def kalkulator():
     return f"Wynik: {wynik}"
 
 def KonwerterTemperatur():
-    print("zad2")
+    print("C. Celsjusz na Fahrenheit")
+    print("F. Fahrenheit na Celsjusz")
+    wybor = input()
+
+    if wybor == "C":
+        celsius1 = float(input("Podaj temperaturę w Celsjuszach: "))
+        fahrenheit1 = celsius1 * 1.8 + 32
+        return f"Temperatura w Fahrenheitach: {fahrenheit1}"
+    elif wybor == "F": 
+        fahrenheit2 = float(input("Podaj temperaturę w Fahrenheitach: "))
+        celsius2 = (fahrenheit2 - 32) * 1.8
+        return f"Temperatura w Celsjuszach: {celsius2}"
 
 def SredniaOcen():
     print("zad3")
