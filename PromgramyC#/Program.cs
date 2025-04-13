@@ -77,7 +77,27 @@ class Program
     static void KonwerterTemperatur()
     { 
 
-         Console.WriteLine("Hello World!");
+        Console.WriteLine("Wybierz Opcje:");
+        Console.WriteLine("1 - Przelicz Celsjusz na Fahrenheit");
+        Console.WriteLine("2 - Przelicz Fahrenheit na Celsjusz");
+
+        string wybor = Console.ReadLine();
+
+            if(wybor== "1") {
+                Console.Write("Podaj temperaturę w Celsjuszach: ");
+                double tempC1 = Convert.ToDouble(Console.ReadLine());
+                double tempF1 = tempC1 * 1.8 + 32;
+                Console.WriteLine("Temperatura w Fahrenheitach: " + tempF1);
+
+            } else if(wybor== "2") {
+                Console.Write("Podaj temperaturę w Fahrenheitach: ");
+                double tempF2 = Convert.ToDouble(Console.ReadLine());
+                double tempC2 = (tempF2 - 32 )/ 1.8;
+                Console.WriteLine("Temperatura w Celsjuszach: " + tempC2);
+            } else {
+                Console.WriteLine("Nieprawidłowy wybór!");
+            }
+        
     }
 
 

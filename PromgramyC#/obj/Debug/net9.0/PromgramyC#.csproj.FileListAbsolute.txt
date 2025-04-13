@@ -12,3 +12,4 @@ C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\refint\Promgra
 C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.pdb
 C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.genruntimeconfig.cache
 C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\ref\PromgramyC#.dll
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.sourcelink.json
