@@ -1,0 +1,14 @@
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\bin\Debug\net9.0\PromgramyC#.exe
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\bin\Debug\net9.0\PromgramyC#.deps.json
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\bin\Debug\net9.0\PromgramyC#.runtimeconfig.json
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\bin\Debug\net9.0\PromgramyC#.dll
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\bin\Debug\net9.0\PromgramyC#.pdb
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.AssemblyInfoInputs.cache
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.AssemblyInfo.cs
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.csproj.CoreCompileInputs.cache
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.dll
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\refint\PromgramyC#.dll
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.pdb
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\PromgramyC#.genruntimeconfig.cache
+C:\Users\rreka\Documents\GitHub\PPZO\PromgramyC#\obj\Debug\net9.0\ref\PromgramyC#.dll
